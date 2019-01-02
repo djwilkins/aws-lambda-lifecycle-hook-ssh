@@ -19,7 +19,9 @@ Source (steps 2-4): https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-
 3) cd my-folder-name
 3) npm init -y
 4) npm install simple-ssh --save   # or whatever npm package of interest
-5) stage your js script in the folder too (ex. index.js)
+5) stage your js script in the folder too:
+    * Can save any one of js flies here as index.js folder to start.
+    * And modify later for testing and final version through lambda in gui.
 6) verify you're directory contents look like this:
 Example of what you'll have in the folder to zip up:
 index.js
