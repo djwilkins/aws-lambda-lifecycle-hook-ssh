@@ -7,4 +7,4 @@ This aws lambda function (node js) works when triggered by an autoscaling lifecy
 
 Setup All AWS Lambda Lifecycle Hook Componants
 
-Other Pre-Requisites
+Other Pre-Requisites and Notes
