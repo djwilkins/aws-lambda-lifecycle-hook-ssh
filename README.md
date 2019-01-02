@@ -5,6 +5,6 @@ This aws lambda function (node js) works when triggered by an autoscaling lifecy
 
 [Create Nodejs Lambda Package](https://github.com/djwilkins/aws-lambda-lifecycle-hook-ssh/blob/master/create-nodejs-lambda-package.MD)
 
-Setup All AWS Lambda Lifecycle Hook Componants
+[Setup All AWS Lambda Lifecycle Hook Componants](https://github.com/djwilkins/aws-lambda-lifecycle-hook-ssh/blob/master/setup-aws-lambda-lifecycle-hook.MD)
 
-Other Pre-Requisites and Notes
+[Other Pre-Requisites and Notes](https://github.com/djwilkins/aws-lambda-lifecycle-hook-ssh/blob/master/other-pre-reqs-and-notes.MD)
